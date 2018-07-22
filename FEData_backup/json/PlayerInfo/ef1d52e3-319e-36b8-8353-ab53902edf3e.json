@@ -1,0 +1,29 @@
+{
+  "ident": "(ef1d52e3-319e-36b8-8353-ab53902edf3e|acoso)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 58.050438,
+    "yaw": -311.17862,
+    "xd": 436.23214674694793,
+    "yd": 36.0,
+    "zd": -2043.8296769408869
+  },
+  "lastDeathLocation": {
+    "dim": 0,
+    "pitch": 58.050438,
+    "yaw": -311.17862,
+    "xd": 436.23214674694793,
+    "yd": 36.0,
+    "zd": -2043.8296769408869
+  },
+  "lastTeleportTime": 0,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 718725,
+  "firstLogin": "Jun 28, 2018 5:26:11 PM",
+  "lastLogin": "Jun 28, 2018 5:28:57 PM",
+  "lastLogout": "Jun 28, 2018 5:38:19 PM",
+  "namedTimeout": {}
+}

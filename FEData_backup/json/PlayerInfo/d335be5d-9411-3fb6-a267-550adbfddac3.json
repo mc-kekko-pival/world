@@ -1,0 +1,29 @@
+{
+  "ident": "(d335be5d-9411-3fb6-a267-550adbfddac3|kekko)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 74.54999,
+    "yaw": 115.20166,
+    "xd": -539.6695546156675,
+    "yd": 69.0,
+    "zd": 685.7076035825567
+  },
+  "lastDeathLocation": {
+    "dim": 0,
+    "pitch": 74.54999,
+    "yaw": 115.20166,
+    "xd": -539.6695546156675,
+    "yd": 69.0,
+    "zd": 685.7076035825567
+  },
+  "lastTeleportTime": 1530549220132,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 158478864,
+  "firstLogin": "Jun 16, 2018 11:03:38 PM",
+  "lastLogin": "Jul 21, 2018 7:38:00 PM",
+  "lastLogout": "Jul 21, 2018 7:38:13 PM",
+  "namedTimeout": {}
+}

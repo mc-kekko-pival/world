@@ -1,0 +1,29 @@
+{
+  "ident": "(709e95bb-af48-3146-a722-f09b4632fdf8|Pival81)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 49.95011,
+    "yaw": 135.58917,
+    "xd": -550.4867998054299,
+    "yd": 68.0,
+    "zd": 706.3409397934612
+  },
+  "lastDeathLocation": {
+    "dim": 0,
+    "pitch": 49.95011,
+    "yaw": 135.58917,
+    "xd": -550.4867998054299,
+    "yd": 68.0,
+    "zd": 706.3409397934612
+  },
+  "lastTeleportTime": 0,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 151967346,
+  "firstLogin": "Jun 16, 2018 11:13:16 PM",
+  "lastLogin": "Jul 21, 2018 7:38:00 PM",
+  "lastLogout": "Jul 21, 2018 7:34:58 PM",
+  "namedTimeout": {}
+}

@@ -1,0 +1,29 @@
+{
+  "ident": "(d940c835-67f4-3b1d-93a9-220d9004a85e|dio)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 27.30002,
+    "yaw": 165.8999,
+    "xd": -557.1839925084792,
+    "yd": 68.0,
+    "zd": 686.7453705573944
+  },
+  "lastDeathLocation": {
+    "dim": 0,
+    "pitch": 27.30002,
+    "yaw": 165.8999,
+    "xd": -557.1839925084792,
+    "yd": 68.0,
+    "zd": 686.7453705573944
+  },
+  "lastTeleportTime": 0,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 36429716,
+  "firstLogin": "Jul 7, 2018 6:33:09 PM",
+  "lastLogin": "Jul 22, 2018 4:50:48 PM",
+  "lastLogout": "Jul 21, 2018 6:58:19 PM",
+  "namedTimeout": {}
+}

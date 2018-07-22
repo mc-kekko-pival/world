@@ -1,0 +1,148 @@
+{
+  "worldZones": {
+    "-1": {
+      "dimensionID": -1,
+      "areaZones": [],
+      "id": 6,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "0": {
+      "dimensionID": 0,
+      "areaZones": [],
+      "id": 8,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "1": {
+      "dimensionID": 1,
+      "areaZones": [],
+      "id": 5,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-2": {
+      "dimensionID": -2,
+      "areaZones": [],
+      "id": 7,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-3": {
+      "dimensionID": -3,
+      "areaZones": [],
+      "id": 2,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-4": {
+      "dimensionID": -4,
+      "areaZones": [],
+      "id": 3,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-5": {
+      "dimensionID": -5,
+      "areaZones": [],
+      "id": 4,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    }
+  },
+  "playerGroups": {},
+  "id": 1,
+  "playerPermissions": {
+    "(fefefefe-fefe-fefe-fefe-fefefefefefe|$SERVER)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefeec|$FE_ECONOMY)": {
+      "fe.economy.command.wallet.*": "true",
+      "command.give": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecc|$RCON)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecb|$COMMANDBLOCK)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(d335be5d-9411-3fb6-a267-550adbfddac3|kekko)": {
+      "fe.internal.player.known": "true"
+    },
+    "(709e95bb-af48-3146-a722-f09b4632fdf8|Pival81)": {},
+    "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
+      "fe.internal.player.known": "true"
+    },
+    "(41c82c87-7afb-4024-ba57-13d2c99cae77|[Minecraft])": {
+      "fe.internal.player.known": "true"
+    },
+    "(ef1d52e3-319e-36b8-8353-ab53902edf3e|acoso)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e8f2992c-5ecd-3ec2-931a-2088003fc32c|si)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d940c835-67f4-3b1d-93a9-220d9004a85e|dio)": {}
+  },
+  "groupPermissions": {
+    "_PLAYERS_": {
+      "fe.remote.chat.send": "true",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_NPC_": {
+      "fe.internal.group.name": "NPCs",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_FAKEPLAYERS_": {
+      "fe.internal.group.priority": "15",
+      "fe.internal.group": "true",
+      "fe.protection.*": "true"
+    },
+    "_OPS_": {
+      "fe.internal.prefix": "[\u0026cOP\u0026f]",
+      "fe.internal.group.priority": "50",
+      "fe.internal.group": "true"
+    },
+    "_ALL_": {
+      "fe.remote.chat.send": "false",
+      "some.test.permission": "true",
+      "fe.internal.group.name": "players",
+      "fe.internal.group.priority": "0",
+      "fe.internal.group": "true"
+    },
+    "_CREATIVE_": {
+      "fe.internal.group": "true"
+    },
+    "_ADVENTURE_": {
+      "fe.internal.group": "true"
+    },
+    "faction_rank_owner": {
+      "fe.faction.members.*": "true",
+      "fe.faction.leave": "false",
+      "fe.faction.ally": "true",
+      "fe.faction.friendlyfire": "true",
+      "fe.faction.invite": "true",
+      "fe.internal.group.priority": "18",
+      "fe.internal.group.parents": "faction_rank_op",
+      "fe.faction.delete": "true"
+    },
+    "faction_rank_op": {
+      "fe.faction.members.*": "true",
+      "fe.faction.ally": "true",
+      "fe.faction.friendlyfire": "true",
+      "fe.faction.invite": "true",
+      "fe.internal.group.priority": "16"
+    },
+    "_GUESTS_": {
+      "fe.internal.prefix": "[GUEST]",
+      "fe.internal.group.priority": "10",
+      "fe.internal.group": "true"
+    }
+  }
+}
