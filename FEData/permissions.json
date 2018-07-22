@@ -70,10 +70,10 @@
       "*": "true",
       "fe.internal.player.known": "true"
     },
-    "(d335be5d-9411-3fb6-a267-550adbfddac3|kekko)": {
+    "(d335be5d-9411-3fb6-a267-550adbfddac3|kekko)": {},
+    "(709e95bb-af48-3146-a722-f09b4632fdf8|Pival81)": {
       "fe.internal.player.known": "true"
     },
-    "(709e95bb-af48-3146-a722-f09b4632fdf8|Pival81)": {},
     "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
       "fe.internal.player.known": "true"
     },
@@ -86,7 +86,9 @@
     "(e8f2992c-5ecd-3ec2-931a-2088003fc32c|si)": {
       "fe.internal.player.known": "true"
     },
-    "(d940c835-67f4-3b1d-93a9-220d9004a85e|dio)": {}
+    "(d940c835-67f4-3b1d-93a9-220d9004a85e|dio)": {
+      "fe.internal.player.known": "true"
+    }
   },
   "groupPermissions": {
     "_PLAYERS_": {
