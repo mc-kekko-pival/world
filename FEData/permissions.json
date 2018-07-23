@@ -48,6 +48,24 @@
       "id": 4,
       "playerPermissions": {},
       "groupPermissions": {}
+    },
+    "2": {
+      "dimensionID": 2,
+      "areaZones": [],
+      "id": 1,
+      "playerPermissions": {},
+      "groupPermissions": {
+        "_ALL_": {
+          "some.test.permission": "true"
+        }
+      }
+    },
+    "3": {
+      "dimensionID": 3,
+      "areaZones": [],
+      "id": 2,
+      "playerPermissions": {},
+      "groupPermissions": {}
     }
   },
   "playerGroups": {},
@@ -70,9 +88,7 @@
       "*": "true",
       "fe.internal.player.known": "true"
     },
-    "(d335be5d-9411-3fb6-a267-550adbfddac3|kekko)": {
-      "fe.internal.player.known": "true"
-    },
+    "(d335be5d-9411-3fb6-a267-550adbfddac3|kekko)": {},
     "(709e95bb-af48-3146-a722-f09b4632fdf8|Pival81)": {},
     "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
       "fe.internal.player.known": "true"
@@ -88,7 +104,11 @@
     },
     "(d940c835-67f4-3b1d-93a9-220d9004a85e|dio)": {
       "fe.internal.player.known": "true"
-    }
+    },
+    "(00000000-0000-006f-0000-00000000014d|rftools_builder)": {
+      "fe.internal.player.known": "true"
+    },
+    "(b414f3c6-a4d8-3616-92b8-fb3a383af9a5|diodo)": {}
   },
   "groupPermissions": {
     "_PLAYERS_": {
